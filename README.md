@@ -1,2 +1,3 @@
 # rock-paper-scissors
-A rock-paper-scissors game using javascipt
+This is a Rock-Paper-Scissor game that we can play with the computer .
+HTML,CSS and JavaScript are used
